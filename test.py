@@ -1,0 +1,7 @@
+print(type('哈哈'))
+print(type(2333))
+print(type(2.333))
+print(type(True))
+print(type(()))
+print(type([]))
+print(type({}))
